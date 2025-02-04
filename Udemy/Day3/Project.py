@@ -22,3 +22,4 @@ elif output1 == "right":
   print("Game over.")
 else:
   print("Game over.")
+
